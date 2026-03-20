@@ -1,0 +1,15 @@
+data:
+  test_size: 0.2
+  train_size: 0.8
+features:
+- Region
+- State
+- No. of Companies - Public
+- Authorized Capital - Public (In Crores)
+- No. of Companies - Private
+- Authorized Capital - Private (In Crores)
+- No. of Companies - Total
+model:
+  epochs: 50
+  rf_estimators: 200
+  type: RandomForest + NeuralNetwork

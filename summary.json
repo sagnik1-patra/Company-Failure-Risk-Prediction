@@ -1,0 +1,23 @@
+{
+    "best_model": "LinearRegression",
+    "results": [
+        {
+            "Model": "LinearRegression",
+            "MSE": 1.5822227510000707e-22,
+            "R2": 1.0,
+            "Accuracy (%)": 100.0
+        },
+        {
+            "Model": "DecisionTree",
+            "MSE": 92136.84088749999,
+            "R2": 0.9345415753972269,
+            "Accuracy (%)": 93.45415753972269
+        },
+        {
+            "Model": "RandomForest",
+            "MSE": 78748.30573510933,
+            "R2": 0.9440534320049918,
+            "Accuracy (%)": 94.40534320049917
+        }
+    ]
+}
