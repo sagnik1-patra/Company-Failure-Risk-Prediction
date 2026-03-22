@@ -1,0 +1,9 @@
+{
+    "best_parameters": {
+        "n_estimators": 43,
+        "max_depth": 7
+    },
+    "MSE": 47680.18989240591,
+    "R2": 0.9661257094875999,
+    "Accuracy": 96.61257094876
+}
