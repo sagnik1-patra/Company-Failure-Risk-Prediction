@@ -1,4 +1,4 @@
-🧠 Company Failure Risk Prediction using Swarm Intelligence Algorithms.
+🧠 Company Failure Risk Prediction using Swarm Intelligence Algorithms
 📌 Project Overview
 
 This project focuses on analyzing and predicting company failure risk using real-world data of non-government companies struck off across states.
